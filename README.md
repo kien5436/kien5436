@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kiên</h1>
 <h3 align="center">A Vietnamese developer</h3>
 
-- I love dabbling in computer
-- I'm working at Samsung Vietnam R&D Mobile Center
-- All of my projects are available at [https://github.com/kien5436](https://github.com/kien5436)
+- ❤️ I love dabbling in computer
+- 👨‍💼 I'm working at Samsung Vietnam R&D Mobile Center
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -117,3 +116,5 @@
 <a href="https://stackoverflow.com/users/10245379" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10245379" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shhlkien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shhlkien" height="30" width="40" /></a>
 </p>
+
+<h4>Below are my awesome projects 👇</h4>
