@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kiên <img src="cat.gif" style="width: 100px; vertical-align: middle;" /></h1>
+<h1 align="center">Hi, I'm Kiên <img src="cat.gif" align="center" width="97px" /></h1>
 <h3 align="center">A Vietnamese developer</h3>
 
 - ❤️ I love dabbling in computer
