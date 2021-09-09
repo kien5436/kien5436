@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kiên <img src="cat.gif" align="center" width="97px" /></h1>
 <h3 align="center">A Vietnamese developer</h3>
 
-- ❤️ I love dabbling in computer
+- ❤️ cat
 - 👨‍💼 I'm working at Samsung Vietnam R&D Mobile Center
 
 <h3>Languages and Tools:</h3>
