@@ -1,7 +1,15 @@
 <h1 align="center">Hi, I'm Kiên <img src="cat.gif" align="center" width="97px" /></h1>
 <h3 align="center">A Vietnamese developer</h3>
 
-- ❤️ cat
+<div align="center">
+    <a href="https://github.com/devxb/gitanimals">
+      <img
+        src="https://render.gitanimals.org/lines/kien5436?pet-id=655208841144290217"
+        width="1000"
+        height="200"
+      />
+    </a>
+</div>
 
 <h3>Languages and Tools:</h3>
 
