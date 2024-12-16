@@ -2,7 +2,7 @@
 <h3 align="center">A Vietnamese developer</h3>
 
 <div align="center">
-    <a href="https://github.com/devxb/gitanimals">
+    <a href="https://www.gitanimals.org/en_US/mypage" target="_blank">
       <img
         src="https://render.gitanimals.org/lines/kien5436?pet-id=655208841144290217"
         width="1000"
