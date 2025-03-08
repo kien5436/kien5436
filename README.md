@@ -2,9 +2,9 @@
 <h3 align="center">A Vietnamese developer</h3>
 
 <div align="center">
-    <a href="https://www.gitanimals.org/en_US/mypage" target="_blank">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kien5436&utm_content=farm">
       <img
-        src="https://render.gitanimals.org/lines/kien5436"
+        src="https://render.gitanimals.org/farms/kien5436"
         width="1000"
         height="200"
       />
